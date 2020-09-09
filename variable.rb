@@ -1,2 +1,3 @@
-greeting = "Hello World" 
+def greeting ("Hello World" )
   puts greeting
+end 
